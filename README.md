@@ -1,1 +1,1 @@
-Testing robo for a native project
+App ya kucheki pich za wahuni
